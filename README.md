@@ -71,7 +71,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Name | Year | Branch | Stats |
 | --- | --- | --- | --- |
 | Dhruv Jain | IV | CSE | [@maddhruv](https://hacktoberfest.digitalocean.com/stats/maddhruv) |
-| Sarah Shrivastava | II | CSE |https://hacktoberfest.digitalocean.com/stats/sarahshrivastava|
+| Sarah Shrivastava | II | CSE |[@sarahshrivastava](https://hacktoberfest.digitalocean.com/stats/sarahshrivastava)|
 | [Abhilash Tiwari](https://github.com/abhilashk433/) | III | CSE | |
 | [Aakanksha Jain](https://github.com/accakks/) | III | CSE | [@accakks](https://hacktoberfest.digitalocean.com/stats/accakks) |
 | Amrit Srivastava | III | CSE | |
